@@ -1,4 +1,5 @@
-// import {homeDomElement} from './Home.js'
-// import { home } from './Home.js'
+import homeDomElement from '../Home.js'
+import home from '../Home.js'
 
-// home()
+homeDomElement
+home()

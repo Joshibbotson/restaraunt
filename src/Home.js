@@ -41,5 +41,5 @@ function home () {
 }
 
 
-export {homeDomElement}
-export {home}
+
+export default home
